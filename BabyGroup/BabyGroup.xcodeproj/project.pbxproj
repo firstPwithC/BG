@@ -16,6 +16,7 @@
 		3C55F1601C116E6200881E6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C55F15E1C116E6200881E6A /* LaunchScreen.storyboard */; };
 		3C55F16B1C116E6200881E6A /* BabyGroupTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C55F16A1C116E6200881E6A /* BabyGroupTests.m */; };
 		3C55F1761C116E6200881E6A /* BabyGroupUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C55F1751C116E6200881E6A /* BabyGroupUITests.m */; };
+		3C55F24D1C12CDAF00881E6A /* YF_searchVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C55F24C1C12CDAF00881E6A /* YF_searchVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		3C55F1711C116E6200881E6A /* BabyGroupUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BabyGroupUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C55F1751C116E6200881E6A /* BabyGroupUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BabyGroupUITests.m; sourceTree = "<group>"; };
 		3C55F1771C116E6200881E6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C55F24B1C12CDAF00881E6A /* YF_searchVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YF_searchVC.h; sourceTree = "<group>"; };
+		3C55F24C1C12CDAF00881E6A /* YF_searchVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YF_searchVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +110,8 @@
 				3C55F1511C116E6200881E6A /* AppDelegate.m */,
 				3C55F1531C116E6200881E6A /* ViewController.h */,
 				3C55F1541C116E6200881E6A /* ViewController.m */,
+				3C55F24B1C12CDAF00881E6A /* YF_searchVC.h */,
+				3C55F24C1C12CDAF00881E6A /* YF_searchVC.m */,
 				3C55F1561C116E6200881E6A /* Main.storyboard */,
 				3C55F15C1C116E6200881E6A /* Assets.xcassets */,
 				3C55F15E1C116E6200881E6A /* LaunchScreen.storyboard */,
@@ -275,6 +280,7 @@
 			files = (
 				3C55F1551C116E6200881E6A /* ViewController.m in Sources */,
 				3C55F15B1C116E6200881E6A /* BabyGroup.xcdatamodeld in Sources */,
+				3C55F24D1C12CDAF00881E6A /* YF_searchVC.m in Sources */,
 				3C55F1521C116E6200881E6A /* AppDelegate.m in Sources */,
 				3C55F14F1C116E6200881E6A /* main.m in Sources */,
 			);
